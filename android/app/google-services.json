@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "193163881835",
+    "firebase_url": "https://propertymanager-84520.firebaseio.com",
+    "project_id": "propertymanager-84520",
+    "storage_bucket": "propertymanager-84520.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193163881835:android:ca3157a066ec4d0283302e",
+        "android_client_info": {
+          "package_name": "com.templeio.propertyManager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193163881835-k4l9h1a7tuasogk0i4r0d9ad8ugqllng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfrrfbnqloftIwFSen_p9t1mSMYn0pmQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193163881835-k4l9h1a7tuasogk0i4r0d9ad8ugqllng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
